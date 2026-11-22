@@ -1,0 +1,6 @@
+/target/
+/data/
+/lib/*.jar
+/lib/*.verified.sha256
+*.log
+.DS_Store
